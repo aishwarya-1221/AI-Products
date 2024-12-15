@@ -37,5 +37,14 @@ macOS: </br>
 brew install ffmpeg
 
 Windows: </br>
-Download from FFmpeg official website.
+Download from FFmpeg official website.</br>
 Add the bin directory to your system's PATH.
+
+### Set Up Credentials
+
+Create a .env file in the root directory with WATSONX_URL, WATSONX_API_KEY, and PROJECT_ID.</br>
+
+### Load Environment Variables </br>
+Ensure the .env file is loaded by your script
+
+
