@@ -1,4 +1,4 @@
-## Audio Transcription and Key Point Analyzer </br>
+## Intelligent Meeting Transcription Assistant </br>
 This project is an AI-powered application for transcribing audio files and extracting detailed key points using a large language model (LLM). It leverages IBM WatsonX, Hugging Face, and Gradio for seamless speech-to-text processing and analysis.
 
 ### Features </br>
