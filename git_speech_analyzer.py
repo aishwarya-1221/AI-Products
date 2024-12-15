@@ -1,5 +1,5 @@
 """
-Audio Transcription and Analysis App
+Audio Transcription and Key Point Analyzer
 This script processes audio input, transcribes it using a speech-to-text model,
 and generates detailed key point analysis with Llama 3 LLM.
 """
