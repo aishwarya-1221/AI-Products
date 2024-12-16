@@ -109,7 +109,7 @@ iface = gr.Interface(
     fn=transcript_audio, 
     inputs=audio_input, 
     outputs=output_text, 
-    title="Audio Transcription and Analysis App",
+    title="Intelligent Meeting Transcription Assistant",
     description=(
         "Upload an audio file to transcribe and extract detailed key points using AI. "
         "The transcription is powered by Whisper, and the analysis is performed by LLAMA3."
